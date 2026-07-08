@@ -7,8 +7,7 @@ Expense Tracker
 Expense Tracker is my first GitHub project. This application helps users record and manage their daily income and expenses in a simple and organized way. The goal of this project is to make personal finance tracking easier while also helping me strengthen my programming and development skills.
 
 Features
-Add income and expense records
-Track spending habits
-View financial summaries
-Simple and user-friendly interface
-Easy expense management
+# Track spending habits
+# View financial summaries
+# Simple and user-friendly interface
+# Easy expense management
